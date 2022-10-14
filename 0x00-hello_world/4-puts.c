@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
- *prints a line and then returns zero
+ *main- prints a line
+*Return: 0 if ended properly not otherwise
  */
- 
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
