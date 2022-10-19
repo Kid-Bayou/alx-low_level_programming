@@ -1,4 +1,4 @@
-#include '_putchar.c'
+#include "main.c"
 /**
  * main- prints _putchar followed by a new line
  * Return: Always zero
