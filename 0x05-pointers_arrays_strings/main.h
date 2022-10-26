@@ -1,6 +1,7 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef MAIN_H
+#define MAIN_H
 
-#include <stdio.h>
+void swap_int(int *a, int *b);#include <stdio.h>
 
-#endif /* _MAIN_H_ */
+
+#endif 
