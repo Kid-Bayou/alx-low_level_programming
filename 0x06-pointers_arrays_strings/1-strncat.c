@@ -27,7 +27,3 @@ char *_strncat(char *dest, char *src, int n)
 	dest[i] = '\0';
 	return (dest);
 }
-int main()
-{
-	return (0);
-}
