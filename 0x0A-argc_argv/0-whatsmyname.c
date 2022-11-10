@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main -  writes its name
- * @argc: arguement count
+ * @argc: arguement coun
  * @argv: array of pointers to arguement strings
  * Return: 0
  */
