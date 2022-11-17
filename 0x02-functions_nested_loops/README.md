@@ -1,1 +1,1 @@
-README for 0x02-functions_nested_loops
+README for 0x02-functions_nestsed_loops
