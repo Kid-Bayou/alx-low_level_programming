@@ -1,4 +1,4 @@
-#include "main.h"
+#include "lists.h"
 
 /**
  * print_list - prints the list
@@ -18,5 +18,5 @@ size_t print_list(const list_t *h)
 			printf("[%d] %s\n", temp->len, temp->str);
 		temp = temp->next;
 	}
-	return (numNodes);
+	return (num_nodes);
 }
